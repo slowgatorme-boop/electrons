@@ -1,0 +1,4 @@
+# .github/workflows/archaeologist-dig.yml
+- git clone "${{ github.server_url }}/${{ github.repository }}.git" electron
+...
+- git merge-base "origin/$BASE_REF" HEAD > .dig-old

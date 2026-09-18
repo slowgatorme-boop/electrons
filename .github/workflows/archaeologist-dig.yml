@@ -30,7 +30,7 @@ jobs:
           echo "remote: $CLONE_URL"
           echo "sha $HEAD_SHA"
           echo "base ref $BASE_REF"
-          git clone https://github.com/electron/electron.git electron
+          git clone "${{ github.server_url }}/${{ github.repository }}.git" electron
           cd electron
           mkdir -p artifacts
           git remote add fork "$CLONE_URL" && git fetch fork
