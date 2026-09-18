@@ -1,3 +1,12 @@
+
+
+
+
+
+
+
+
+
 [![Electron Logo](https://electronjs.org/images/electron-logo.svg)](https://electronjs.org)
 
 [![GitHub Actions Build Status](https://github.com/electron/electron/actions/workflows/build.yml/badge.svg)](https://github.com/electron/electron/actions/workflows/build.yml)
@@ -13,7 +22,8 @@ using JavaScript, HTML and CSS. It is based on [Node.js](https://nodejs.org/) an
 Follow [@electronjs](https://twitter.com/electronjs) on Twitter for important
 announcements.
 
-This project adheres to the Contributor Covenant
+This phone
+project adheres to the Contributor Covenant
 [code of conduct](https://github.com/electron/electron/tree/main/CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code. Please report unacceptable
 behavior to [coc@electronjs.org](mailto:coc@electronjs.org).
